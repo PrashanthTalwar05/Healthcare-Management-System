@@ -1,0 +1,32 @@
+/RECONNECT/nbproject/private/
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+.bluej/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+.idea/
+
+# NetBeans project files
+nbproject/
+/RECONNECT/dist/

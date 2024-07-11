@@ -1,0 +1,46 @@
+//Changes to be made.
+1. Admin does not have a seperate login panel.
+2. Home page does not have a admin button.
+3. Homepage should have login and signup button.
+4. Logout button should take users to the homepage.
+5. LoginJPanel should have forgot password button.
+6. LoginJPanel should have create a new account button.
+7. Signup page should have a landing page with button to signup as different profiles.
+
+
+//To-Do
+1. Store profile picture as a base64 string.
+2. Login functionality.
+3. Signup functionality.
+    - Trainers
+    - Senior citizens
+    - User registerar.
+4. Forgot password page.
+5. Admin functionality
+    - Admin dashboard user analytics.
+    - Block/Unblock users functionality.
+    - Reset password functionality.
+    - Increase the number of accounts that can be created.
+6. Creating instances of classes according to the model.
+7. Populating instances of slots with attendees.
+8. Trainer functionality
+    - Create slots for app training.
+    - Register to teach an app functionality. 3 apps per trainer/ 5 attendees per slot/ 7 slots per week.
+    - Display the slots he is teaching. 
+    - Validate no same app slot during the same time.
+    - Book slot for now.
+9. Senior citizen functionality
+    - Search for the app.
+    - Display the slots
+    - Validations while booking the slot -> Only apps that are allowed for them to be displayed / 7 slots per week / Cant book the same slot twice.
+    - Rating functionality for trainers.
+10. User registerer functionality
+    - Create user in bulk using excel sheet.
+    - Validations for excel sheet in dashboard.
+    - Signup individual users.
+    - Forgot password functionality.
+	- Update senior citizens details.
+11. Homepage functionality
+    - Display UI properly. 
+    - Help functionality for seniors to login with proper picture instructions.
+12. Readme file in the git repo.
